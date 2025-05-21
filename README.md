@@ -72,7 +72,7 @@ La placa de desarrollo utilizada ESP tiene 38 pines en este caso.
 El código de programación necesario para la placa ESP32 se puede observar en el siguiente [enlace](/codigos/lm35_sheets.ino).
 
 ## Código de programación para Google Sheets
-El código de programación requerido para Apps Script (Google Sheets) se puede observar en el siguiente [enlace](/codigos/lm35_sheets.ino).
+El código de programación requerido para Apps Script (Google Sheets) se puede observar en el siguiente [enlace](/codigos/base_datos_temperaturas.gs).
 
 ## Pruebas de implementación.
 Las siguientes imagen muestran un fragmento del monitor serie de Arduino IDE y de una hoja de cálculo con las temperaturas (en grados Celsius y Fahrenheit) obtenidas por medio de la placa ESP32 y el sensor LM35.
@@ -91,7 +91,7 @@ Las siguientes imagen muestran un fragmento del monitor serie de Arduino IDE y d
 * [Cadena MIME type](https://developer.mozilla.org/en-US/docs/Glossary/MIME_type)
 * [Carga útil de una transmisión](https://es.wikipedia.org/wiki/Carga_%C3%BAtil_(inform%C3%A1tica))
 * [Bibioteca HTTPClient para ESP32](https://github.com/espressif/arduino-esp32/tree/master)
-* [Biblioteca Wi-Fi para Arduino](hhttps://docs.arduino.cc/libraries/wifi/)
+* [Biblioteca Wi-Fi para Arduino](https://docs.arduino.cc/libraries/wifi/)
 * [Activadores simples de Apps Script (Google Sheets)](https://developers.google.com/apps-script/guides/triggers?hl=es-419)
 * [Clase SpreadsheetApp de Apps Script](https://developers.google.com/apps-script/reference/spreadsheet/spreadsheet-app?hl=es-419)
 * [Aplicaciones Web con Apps Script](https://developers.google.com/apps-script/guides/web?hl=es-419)
